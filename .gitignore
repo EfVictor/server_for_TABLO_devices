@@ -131,6 +131,6 @@ dist
 corepack
 npm
 npx
-.bat
-.cmd
-.exe
+*.bat
+*.cmd
+*.exe
